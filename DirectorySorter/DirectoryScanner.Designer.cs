@@ -1,6 +1,6 @@
 ﻿namespace DirectorySorter
 {
-    partial class Service1
+    partial class DirectoryScanner
     {
         /// <summary> 
         /// Required designer variable.
